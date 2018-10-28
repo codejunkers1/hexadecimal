@@ -1,0 +1,26 @@
+{
+  "name": "hexadecimal",
+  "version": "1.0.0",
+  "description": "hexadecimal functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codejunkers1/hexadecimal.git"
+  },
+  "keywords": [
+    "hexadecimal",
+    "javascript",
+    "unique",
+    "venkata sai",
+    "katepalli"
+  ],
+  "author": "venkata sai katepalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codejunkers1/hexadecimal/issues"
+  },
+  "homepage": "https://github.com/codejunkers1/hexadecimal#readme"
+}
